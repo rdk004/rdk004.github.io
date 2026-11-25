@@ -1,0 +1,49 @@
+# ------------------------------------------------------------
+# _quarto.yml — settings for the whole site
+# ------------------------------------------------------------
+
+project:
+  type: website
+  output-dir: _site          # where the built site goes (never edit by hand)
+
+execute:
+  freeze: auto               # code runs on YOUR machine once; results are saved in _freeze/
+
+website:
+  title: "Rishabh Kulkarni"
+  description: "Computational oncology at the interface of quantitative imaging, tumour biology and molecular/spatial profiling."
+  site-url: https://rdk004.github.io
+  repo-url: https://github.com/rdk004/rdk004.github.io
+
+  navbar:
+    left:
+      - text: Research
+        href: research/index.qmd
+      - text: Notes
+        href: notes/index.qmd
+      - text: Methods
+        href: methods.qmd
+      - text: About
+        href: about.qmd
+    right:
+      - icon: github
+        href: https://github.com/rdk004
+        aria-label: GitHub
+
+  page-footer:
+    left: "© 2026 Rishabh Kulkarni"
+    right:
+      - icon: github
+        href: https://github.com/rdk004
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:you@example.com      # TODO: your email
+        aria-label: Email
+
+format:
+  html:
+    theme: [cosmo, theme.scss]
+    toc: true                # table of contents on long pages
+    toc-location: right
+    smooth-scroll: true
+    link-external-newwindow: true

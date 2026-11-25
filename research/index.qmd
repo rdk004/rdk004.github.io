@@ -1,0 +1,15 @@
+---
+title: "Research"
+toc: false
+listing:
+  contents:
+    # Order here = order on the page
+    - radiomic-heterogeneity/index.qmd
+    - spark/index.qmd
+  type: grid
+  grid-columns: 2
+  fields: [title, description]
+  sort: false
+---
+
+Connected investigations into how tumour biology is reflected in imaging, and how molecular and spatial data can explain imaging phenotypes.

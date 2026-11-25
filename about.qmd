@@ -1,0 +1,27 @@
+---
+title: "About"
+toc: false
+---
+
+<!-- TODO: write this in first person, ~150 words. Context and trajectory, not a CV. -->
+
+## Background
+
+- BS-MS, Biological Sciences — IISER Pune
+- MS thesis — IIT Hyderabad (CG&T Lab), on stable transcriptomic modules for lung adenocarcinoma prognosis
+- Postgraduate research fellow — Human Technopole, Milan *(TODO: confirm wording and start date)*
+
+## Research interests
+
+Quantitative imaging as a biological phenotype · radiogenomics · the tumour–stroma interface · spatial tumour biology · clinically anchored predictive modelling
+
+## Publications
+
+<!-- TODO: full citations with DOI links -->
+
+- *Frontiers in Oncology* — co-author. TODO: full citation.
+
+## Contact
+
+<!-- TODO -->
+Email · [GitHub](https://github.com/rdk004) · CV (PDF, coming soon)

@@ -1,0 +1,23 @@
+---
+title: "Methods"
+---
+
+Methods on this site are tools in service of questions. Each section links to the investigations where the method is actually used.
+
+<!-- TODO: for each area, 2–3 sentences on what you use it for and WHY — then link to the pages that use it. Fill these in only as real work exists. -->
+
+## Quantitative imaging & radiomics
+
+DCE-MRI handling, segmentation masks, feature extraction (PyRadiomics), robustness to segmentation and preprocessing.
+
+## Transcriptomics & prognostic modelling
+
+Module discovery, signature scoring, survival analysis (Cox models, nomograms), calibration and decision-curve analysis.
+
+## Spatial transcriptomics
+
+Visium QC, compartment definition, pathway and signature scoring, spatial association analysis.
+
+## Reproducibility
+
+Every investigation has a public repository with code, environment specification and a link to the source data.

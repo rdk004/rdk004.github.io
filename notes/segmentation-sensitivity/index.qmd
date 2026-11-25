@@ -1,0 +1,19 @@
+---
+title: "How Much Does a One-Voxel Boundary Change Matter?"
+description: "Sensitivity of radiomic features to small perturbations of the tumour segmentation."
+date: 2026-12-01
+categories: [radiomics, robustness]
+draft: true                  # remove this line when the note is ready to go public
+---
+
+<!-- TEMPLATE for every research note: exactly these five sections. -->
+
+## Question
+
+## Hypothesis
+
+## Analysis
+
+## What I found
+
+## What I would investigate next

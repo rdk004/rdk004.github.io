@@ -1,0 +1,13 @@
+---
+title: "Research Notes"
+toc: false
+listing:
+  contents: "*/index.qmd"
+  type: default
+  sort: "date desc"
+  fields: [date, title, description, categories]
+  categories: true
+  date-format: "MMM YYYY"
+---
+
+Short investigations (methodological tests, failed hypotheses, observations) that are scientifically useful but don't need a full project.

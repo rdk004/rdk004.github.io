@@ -1,0 +1,50 @@
+---
+title: "What Does Radiomic Heterogeneity Measure?"
+description: "Before using radiomic features for prediction: what do they actually capture about tumour organisation?"
+draft: true                  # remove this line when the page is ready to go public
+---
+
+<!--
+TEMPLATE for every flagship research page. Keep all ten sections.
+Write the Question and Hypothesis BEFORE opening the data.
+-->
+
+## Question
+
+What precise scientific question is being asked?
+
+## Why it matters
+
+What biological or clinical problem motivated it?
+
+## Hypothesis
+
+What do you expect to see, and why?
+
+## Data
+
+Dataset, cohort size, and its important limitations.
+
+## Approach
+
+The smallest analysis capable of answering the question.
+
+## Findings
+
+What the data actually showed. One or two figures.
+
+## Interpretation
+
+What biological or clinical meaning is justified, and what is not.
+
+## Limitations
+
+What cannot be concluded: confounding, scanner effects, segmentation dependence, sample size.
+
+## Next question
+
+What observation would motivate the next experiment?
+
+## Reproducibility
+
+[Code repository](https://github.com/rdk004/) · environment file · data source

@@ -1,0 +1,37 @@
+---
+title: "Rishabh Kulkarni"
+subtitle: "Computational oncology · quantitative tumour biology"
+toc: false
+listing:
+  id: selected-research
+  contents: research/*/index.qmd
+  type: grid
+  grid-columns: 3
+  fields: [title, description]
+  sort: false
+---
+
+<!-- TODO: rewrite this paragraph in your own words. Keep it to 2–3 sentences. -->
+I am interested in how quantitative imaging can capture the biological organisation of tumours, and how imaging, molecular and spatial data can be integrated into clinically meaningful cancer phenotypes.
+
+<!-- TODO: one short paragraph connecting where you've been (SPARK, transcriptomic modules) to where you're going (imaging). -->
+My background is in transcriptomics and prognostic modelling. I now ask whether the biology those molecular programmes describe is visible in medical images, and what imaging can reveal that a biopsy cannot.
+
+## Selected research
+
+::: {#selected-research}
+:::
+
+## Current questions
+
+<!-- TODO: 2–4 questions you are actually thinking about right now. Update these often. -->
+
+- What does radiomic "heterogeneity" actually measure?
+- Does the tissue just outside a tumour carry information that tumour-only imaging misses?
+- Where are stromal, immune and tumour programmes located relative to one another?
+
+## Trajectory
+
+::: {.trajectory}
+Transcriptomic modules → Cancer imaging → Radiomics → Radiogenomics → Peritumoural imaging → Spatial tumour biology → Multimodal precision oncology
+:::

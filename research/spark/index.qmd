@@ -1,0 +1,33 @@
+---
+title: "Stable Transcriptomic Modules for Lung Adenocarcinoma Prognosis"
+description: "SPARK: can stability-optimised gene modules give prognostic signals that are also biologically interpretable?"
+draft: true                  # remove this line when the page is ready to go public
+---
+
+<!--
+Same ten-section structure as the other research pages.
+Only include what is already public (thesis, abstract, preprint).
+Check with your co-authors before sharing unpublished figures.
+-->
+
+## Question
+
+## Why it matters
+
+## Hypothesis
+
+## Data
+
+## Approach
+
+## Findings
+
+## Interpretation
+
+## Limitations
+
+## Next question
+
+<!-- This is the bridge: why did this work lead you to imaging? -->
+
+## Reproducibility
